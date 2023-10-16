@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: papayawhip;
+}
+h1, h3 {
+  text-align: center;
+}
+ol li {
+  margin-top: 20px;
+  font-size: 17px;
+}
+ul {
+  margin-top: 20px;
+  font-size: 17px;
+}
